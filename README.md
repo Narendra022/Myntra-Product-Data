@@ -12,7 +12,6 @@ This project aims to analyze the product data, including information on discount
 4. **Power BI Dashboard**: The analysis is visualized using Power BI to create interactive dashboards.
 
 ## Required Libraries:
-
 - pandas
 - numpy
 - matplotlib
